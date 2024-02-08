@@ -1,0 +1,1 @@
+concatenates the two strings and outputs '510'

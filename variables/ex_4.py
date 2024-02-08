@@ -1,0 +1,1 @@
+CatName and BigNumber3 are idiomatic.
