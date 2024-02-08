@@ -1,0 +1,1 @@
+return an error because at least one argument must be passed in.

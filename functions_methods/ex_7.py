@@ -1,0 +1,1 @@
+Raise an error because two arguments are not passed in.

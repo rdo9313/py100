@@ -1,0 +1,1 @@
+multiply, left, right, get_num, prompt, float, input, first_number, second_number, product, print
