@@ -1,0 +1,1 @@
+Characters of strings are indexable and are ordered.
