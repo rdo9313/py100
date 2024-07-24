@@ -1,0 +1,1 @@
+SyntaxError, the third parameter must also have default value.

@@ -1,0 +1,1 @@
+return a TypeError because function requires two arguments.

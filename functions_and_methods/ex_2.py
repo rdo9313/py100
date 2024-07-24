@@ -1,0 +1,1 @@
+'bar'. The value of 'foo' is defined globally on line 1.

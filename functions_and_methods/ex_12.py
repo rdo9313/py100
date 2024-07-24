@@ -1,0 +1,1 @@
+TypeError, function requires at least one argument.

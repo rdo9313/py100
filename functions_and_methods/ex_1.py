@@ -1,0 +1,1 @@
+NameError. The variable 'foo' is in scope of the function.

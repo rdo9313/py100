@@ -1,0 +1,1 @@
+The return statement on line 3 terminates the function and does not print anything.
