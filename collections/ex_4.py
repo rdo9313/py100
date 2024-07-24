@@ -1,0 +1,1 @@
+You can access the characters through indexing.
