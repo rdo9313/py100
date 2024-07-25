@@ -1,0 +1,1 @@
+The counter variable is never incremented.
