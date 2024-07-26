@@ -1,0 +1,1 @@
+{42, 'Monty Python', ('a','b','c'), range(5,10)}
