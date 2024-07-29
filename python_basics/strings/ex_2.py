@@ -1,0 +1,1 @@
+'confetti floating everywhere'.upper()
