@@ -1,0 +1,1 @@
+# strings are ordered and can be access with indexing

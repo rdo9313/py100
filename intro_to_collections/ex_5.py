@@ -1,0 +1,1 @@
+# sets are unordered and not indexable while sequences are ordered and can be accessed through indexing
